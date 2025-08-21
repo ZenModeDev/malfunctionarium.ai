@@ -1,6 +1,7 @@
 # malfunctionarium.ai
 A fully classified taxonomy of computational derangement
 
+A follow up work for [the original blog-post](https://zenmode.dev/ai-malfunctionarium-prompt-engineering-gone-feral/) and [youtube video](https://youtu.be/68XuuarCEDI)
 
 | Biome | Subspecies  | Description | Found in |
 |----------|----------|----------|--------|
